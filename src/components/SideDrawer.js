@@ -13,7 +13,7 @@ const sideDrawer = props => (
       <li className="sign-up"><a href="/">SIGN UP</a></li>
       <li className="spacer"></li>
       <li>
-        <a onClick={ ()=> window.open('http://www.github.com')}>
+        <a onClick={ ()=> window.open('https://github.com/sensoji/react-landing-page')}>
           <img src={Octocat} alt="github link" />
         </a>
       </li>

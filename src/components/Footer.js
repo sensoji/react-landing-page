@@ -6,7 +6,7 @@ import Tlogo from '../Tlogo.png';
 const footer = props => (
   <div className="footer">
     <p>
-      <a onClick={ ()=> window.open('http://www.github.com')}>
+      <a onClick={ ()=> window.open('https://github.com/sensoji/react-landing-page')}>
         <img src={Octocat} alt="github link" />
       </a>
       <a onClick={ ()=> window.open('http://www.facebook.com')}>
